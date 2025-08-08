@@ -118,7 +118,110 @@
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
+---------------------------------
 
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Alireza%20Saberian&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
+
+## 👋 About Me
+Hi! I'm **Alireza Saberian**, a passionate **Computer Engineering student** specializing in **Software Engineering** and **IT**.  
+Currently studying at **Hamedan University of Technology** (graduating September 2025), I love building modern web applications, analyzing data, and learning new technologies.  
+I have experience from working as an **IT Intern at Mobarakeh Steel Company** where I participated in diverse IT projects.
+
+---
+
+## 🚀 Skills
+### 💻 Programming & Scripting
+![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🗄 Databases & Data Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-4DB33D?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+- **[Breast Cancer Detection using CNN](https://github.com/AlirezaSaberian)** – Deep learning model built with Keras for image classification.
+- **[Personal Portfolio Website](https://github.com/AlirezaSaberian)** – Responsive web portfolio built with HTML, CSS, and JavaScript.
+- **[Data Dashboard in Power BI](https://github.com/AlirezaSaberian)** – Interactive dashboard with real-time business insights.
+- **[Flutter Mobile App](https://github.com/AlirezaSaberian)** – Cross-platform mobile app for task management.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaSaberian&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaberian&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaSaberian&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📫 Contact Me
+- **Email:** alireza.saberian18@gmail.com
+- **GitHub:** [github.com/AlirezaSaberian](https://github.com/AlirezaSaberian)
+- **LinkedIn:** *(Add your LinkedIn link here)*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"/>
+</p>
+
+--------------------------------
+<!-- Animated 3D Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00F5FF&center=true&vCenter=true&width=700&height=70&lines=Alireza+Saberian;Computer+Engineer+%7C+Web+Developer;Data+Science+%7C+Machine+Learning+Enthusiast" alt="Typing Animation"/>
+</p>
+
+<!-- Glassmorphism Card Skills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-0f2027?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffffff&color=0f2027">
+  <img src="https://img.shields.io/badge/CSS-0f2027?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=ffffff&color=0f2027">
+  <img src="https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=ffffff&color=0f2027">
+  <img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=ffffff&color=0f2027">
+  <img src="https://img.shields.io/badge/MySQL-0f2027?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=ffffff&color=0f2027">
+</p>
+
+---
+
+## 📜 About Me
+> *"Turning ideas into code and data into insights."*  
+🎓 Computer Engineering student at **Hamedan University of Technology** (Graduating 2025)  
+💼 Former **IT Intern** at *Mobarakeh Steel Company*  
+💡 Passionate about **Web Development, Data Science, and AI**  
+🌱 Always learning & building cool stuff  
+
+---
+
+## 📌 My Projects Timeline
+```mermaid
+timeline
+    title Featured Projects
+    2025 : Breast Cancer Detection with CNN :: Deep learning model for histopathology images
+    2024 : Power BI Data Dashboard :: Business analytics dashboard
+    2024 : Personal Portfolio Website :: Responsive HTML/CSS/JS website
+    2023 : Flutter Mobile App :: Task management cross-platform app
 

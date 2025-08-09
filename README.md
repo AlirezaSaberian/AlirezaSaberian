@@ -482,4 +482,61 @@ I have experience from working as an **IT Intern at Mobarakeh Steel Company** wh
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer"/>
 </p>
+---------
+----------
+<h1 align="center">Hi there 👋, I'm Alireza</h1>
+
+<p align="center">
+  <b>Computer Engineering Student | Machine Learning Enthusiast | Web Developer</b>
+</p>
+
+---
+
+## 🖤 About Me  
+- 🎓 Final-year Computer Engineering student  
+- 🤖 Passionate about Machine Learning & AI  
+- 💻 Love building clean, efficient, and useful applications  
+- 📚 Always learning new technologies and improving my skills  
+- 🌍 Open to collaborations and exciting projects  
+
+---
+
+## 🛠 Tech Stack  
+
+<div align="center">
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+
+**Frameworks & Tools**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
+</div>
+
+---
+
+## 📌 Featured Projects  
+- 🧠 **Breast Cancer Detection App** — Deep learning model for medical image classification with Grad-CAM explainability  
+- 📊 **Alzheimer's Data Dashboard** — Clean dataset creation & interactive Power BI dashboard  
+- 💡 **PHP Web Projects** — Multiple small-scale but functional applications  
+
+---
+
+## 📫 Get in Touch  
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/yourusername)  
+
+</div>
+
+---
+
+<p align="center">💬 Let's build something amazing together!</p>
+
 

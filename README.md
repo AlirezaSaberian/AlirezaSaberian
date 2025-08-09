@@ -1,10 +1,6 @@
 ----------------------------------------nekou
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</div>
-
-<h1 align="center">Hi 👋, I'm </h1>
+![MasterHead](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)
+<h1 align="center">Hi 👋, I'm Nekou</h1>
 <h3 align="center">A beginner backend developer .I just start my github for learn more and more.</h3>
 <h3 align="center">right now i'm working on university projects.</h3>
 
@@ -27,8 +23,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekou-cpe&show_icons=true&locale=en&layout=compact" alt="nekou-cpe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nekou-cpe&" alt="nekou-cpe" /></p>
-
-
 ----------------------------------------Mohammad Mohebian
 # 💫 About Me:
 

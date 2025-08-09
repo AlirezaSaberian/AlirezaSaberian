@@ -29,11 +29,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nekou-cpe&" alt="nekou-cpe" /></p>
 
 
-
 ----------------------------------------Mohammad Mohebian
 # 💫 About Me:
-
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1 align="center">
@@ -155,7 +152,6 @@ I have experience from working as an **IT Intern at Mobarakeh Steel Company** wh
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaSaberian&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaberian&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 

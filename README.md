@@ -160,7 +160,7 @@
 ---------------------------------gpt
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Alireza%20Saberian&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=300&section=header&text=Alireza%20Saberian&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
 ## 👋 About Me
@@ -216,10 +216,14 @@ I have experience from working as an **IT Intern at Mobarakeh Steel Company** wh
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=300&section=header&animation=fadeIn" alt="header"/>
+</p>
 <!-- Animated 3D Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00F5FF&center=true&vCenter=true&width=700&height=70&lines=Alireza+Saberian;Computer+Engineer+%7C+Web+Developer;Data+Science+%7C+Machine+Learning+Enthusiast" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00F5FF&center=true&vCenter=true&width=700&height=70&lines=Alireza+Saberian;Computer+Engineer;" alt="Typing Animation"/>
 </p>
+
 
 
 ## 📜 About Me
@@ -228,3 +232,254 @@ I have experience from working as an **IT Intern at Mobarakeh Steel Company** wh
 💼 Former **IT Intern** at *Mobarakeh Steel Company*  
 💡 Passionate about **Web Development, Data Science, and AI**  
 🌱 Always learning & building cool stuff
+
+
+------------------------------------
+--------------------
+<!-- بنر بالای صفحه -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Alireza%20Saberian&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
+
+<!-- متن معرفی کوتاه -->
+<h2 align="center">👋 Hey! I'm Alireza — Computer Engineer</h2>
+<p align="center">
+  Passionate about <b>Machine Learning</b>, <b>Deep Learning</b>, and building impactful projects.<br>
+  Turning ideas into real-world applications 🚀
+</p>
+
+<!-- بخش مهارت‌ها -->
+<h3>🛠 Skills & Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<!-- بخش پروژه‌ها -->
+<h3>🚀 Featured Projects</h3>
+
+- **Breast Cancer Detection (CNN + Streamlit)**  
+  🔗 [View Repository](https://github.com/USERNAME/BreastCancerDetection)  
+  AI-powered tool to detect breast cancer from histopathology images.
+
+- **Another Cool Project**  
+  🔗 [View Repository](https://github.com/USERNAME/AnotherProject)  
+  Short description of what it does.
+
+<!-- آمار گیت‌هاب -->
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" height="150"/>
+</p>
+
+<!-- بخش تماس -->
+<h3>📫 Contact</h3>
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin"/></a>
+</p>
+
+<!-- بنر پایین صفحه -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=footer"/>
+</p>
+------------------------------------
+------------------------------------
+<!-- بنر بالای صفحه با افکت موج و انیمیشن تایپ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Alireza%20Saberian&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=Computer+Engineer;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing Animation"/>
+</p>
+
+<!-- متن معرفی کوتاه -->
+<h2 align="center">👋 Hey there! Welcome to my GitHub</h2>
+<p align="center">
+  I'm <b>Alireza Saberian</b>, a Computer Engineer passionate about <b>Machine Learning</b>, <b>Deep Learning</b>, and technology innovation.<br>
+  Here you'll find my experiments, learning projects, and contributions.
+</p>
+
+<!-- بخش مهارت‌ها -->
+<h3>🛠 Skills & Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<!-- آمار گیت‌هاب -->
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" height="150"/>
+</p>
+
+<!-- بخش تماس -->
+<h3>📫 Let's Connect!</h3>
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-Message%20me-0088cc?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram"/></a>
+</p>
+
+<!-- بنر پایین صفحه -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer"/>
+</p>
+
+
+--------------------------------
+---------------------
+<!-- بنر بالای صفحه با افکت موج و انیمیشن تایپ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Alireza%20Saberian&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=Computer+Engineer;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing Animation"/>
+</p>
+
+<!-- متن معرفی کوتاه -->
+<h2 align="center">👋 Hey there! Welcome to my GitHub</h2>
+<p align="center">
+  I'm <b>Alireza Saberian</b>, a Computer Engineer passionate about <b>Machine Learning</b>, <b>Deep Learning</b>, and technology innovation.<br>
+  Here you'll find my experiments, learning projects, and contributions.
+</p>
+
+---
+
+## 🖥 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+## 🧠 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+## 🎨 Frontend & UI
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+## 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 📫 Let's Connect!
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-Message%20me-0088cc?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram"/></a>
+</p>
+
+<!-- بنر پایین صفحه -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer"/>
+</p>
+
+-------------------
+----------------
+
+<!-- بنر بالای صفحه با افکت موج و انیمیشن تایپ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Alireza%20Saberian&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=Computer+Engineer;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing Animation"/>
+</p>
+
+<!-- متن معرفی کوتاه -->
+<h2 align="center">👋 Hey there! Welcome to my GitHub</h2>
+<p align="center">
+  I'm <b>Alireza Saberian</b>, a Computer Engineer and Full-Stack Developer.<br>
+  Passionate about building scalable applications, mobile apps, and exploring new technologies.
+</p>
+
+---
+
+## 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+## 🖥 Backend Development
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+</p>
+
+## 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+## 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 📫 Let's Connect!
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-Message%20me-0088cc?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram"/></a>
+</p>
+
+<!-- بنر پایین صفحه -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer"/>
+</p>
+

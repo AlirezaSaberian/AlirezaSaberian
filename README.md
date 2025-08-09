@@ -1,8 +1,10 @@
+----------------------------------------nekou
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Alireza</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 <h3 align="center">A beginner backend developer .I just start my github for learn more and more.</h3>
 <h3 align="center">right now i'm working on university projects.</h3>
 
@@ -28,14 +30,10 @@
 
 
 
-----------------------------------------
+----------------------------------------Mohammad Mohebian
 # 💫 About Me:
 
-<div id="header" align="center">
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
-  </div>
-</div>
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1 align="center">
@@ -78,7 +76,7 @@
 
 
 
---------------------------------
+---------------------------------------trloneloa
 <div id="badges" align="center">
 	<a href="https://www.instagram.com/trloneloa/">
   	<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -101,10 +99,7 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisiroid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Crisiroid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Crisiroid&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### :hammer_and_wrench: Used Languages
 
@@ -118,9 +113,7 @@
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
----------------------------------
-
-
+---------------------------------gpt
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Alireza%20Saberian&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
@@ -160,22 +153,12 @@ I have experience from working as an **IT Intern at Mobarakeh Steel Company** wh
 
 ---
 
-## 📌 Featured Projects
-- **[Breast Cancer Detection using CNN](https://github.com/AlirezaSaberian)** – Deep learning model built with Keras for image classification.
-- **[Personal Portfolio Website](https://github.com/AlirezaSaberian)** – Responsive web portfolio built with HTML, CSS, and JavaScript.
-- **[Data Dashboard in Power BI](https://github.com/AlirezaSaberian)** – Interactive dashboard with real-time business insights.
-- **[Flutter Mobile App](https://github.com/AlirezaSaberian)** – Cross-platform mobile app for task management.
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlirezaSaberian&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaberian&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaSaberian&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
+
 
 ---
 
@@ -190,22 +173,11 @@ I have experience from working as an **IT Intern at Mobarakeh Steel Company** wh
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"/>
 </p>
 
---------------------------------
 <!-- Animated 3D Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00F5FF&center=true&vCenter=true&width=700&height=70&lines=Alireza+Saberian;Computer+Engineer+%7C+Web+Developer;Data+Science+%7C+Machine+Learning+Enthusiast" alt="Typing Animation"/>
 </p>
 
-<!-- Glassmorphism Card Skills -->
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-0f2027?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffffff&color=0f2027">
-  <img src="https://img.shields.io/badge/CSS-0f2027?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=ffffff&color=0f2027">
-  <img src="https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=ffffff&color=0f2027">
-  <img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=ffffff&color=0f2027">
-  <img src="https://img.shields.io/badge/MySQL-0f2027?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=ffffff&color=0f2027">
-</p>
-
----
 
 ## 📜 About Me
 > *"Turning ideas into code and data into insights."*  
@@ -213,15 +185,4 @@ I have experience from working as an **IT Intern at Mobarakeh Steel Company** wh
 💼 Former **IT Intern** at *Mobarakeh Steel Company*  
 💡 Passionate about **Web Development, Data Science, and AI**  
 🌱 Always learning & building cool stuff  
-
----
-
-## 📌 My Projects Timeline
-```mermaid
-timeline
-    title Featured Projects
-    2025 : Breast Cancer Detection with CNN :: Deep learning model for histopathology images
-    2024 : Power BI Data Dashboard :: Business analytics dashboard
-    2024 : Personal Portfolio Website :: Responsive HTML/CSS/JS website
-    2023 : Flutter Mobile App :: Task management cross-platform app
 

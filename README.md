@@ -20,13 +20,13 @@
 
 ---
 
-<h3 align="left">📞 Connect with me:</h3>
+### 📞 Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.saberian18@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alireza_Saberian)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alireza._.sbn)
 
-
+---
 
 ## 🚀 Skills
 ### 💻 Programming & Scripting

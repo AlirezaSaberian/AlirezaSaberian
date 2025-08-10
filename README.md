@@ -1,3 +1,14 @@
+---------------------------------------- cteate my own ----------------------------------------
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=428034&center=true&vCenter=true&width=600&height=50&lines=-Computer+Engineer-;-Always+Learning+New+Things-" alt="Typing Animation"/>
+</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=428034&center=true&vCenter=true&width=600&height=50&lines=----------+----------+----------+----------;" alt="Typing Animation"/>
+</p>
 
 ----------------------------------------nekou
 ![MasterHead](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)

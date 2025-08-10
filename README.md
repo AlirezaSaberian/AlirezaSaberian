@@ -1,4 +1,3 @@
----------------------------------------- cteate my own ----------------------------------------
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=428034&center=true&vCenter=true&width=600&height=50&lines=-Computer+Engineer-;-Always+Learning+New+Things-;" alt="Typing Animation"/>
@@ -6,15 +5,39 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=428034&center=true&vCenter=true&width=600&height=50&lines=-------+-------+-------;" alt="Typing Animation"/>
+
+---
+
+
+<h1 align="center">👋 Hey there! Welcome to my GitHub:)</h1>
+
+### :man_technologist: About Me
+<h4>
+	Hey, I'm Amir Sajad, a Flutter developer turned ASP.NET enthusiast.<br />
+	Former backend maestro at Beta Design.<br />
+	With a knack for sleek interfaces and robust backends, I'm all about crafting seamless digital experiences.
+</h4>
+
+<div id="badges" align="center">
+	<h3 align="left">Connect with me:</h3>
+	<a href="https://www.instagram.com/trloneloa/">
+  	<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+	</a>
+	<a href="https://www.linkedin.com/in/amir-sajjad-hp-4371351b6/">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	</a>
+</div>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/nekou_dfrm0014" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="nekou_dfrm0014" height="30" width="40" /></a>
 </p>
-<h1 align="center">
-  👋 Hi, I'm Alireza Saberian
-</h1>
-<h3 align="center">
-  Welcome To My Github:)
-</h3>
+
+
+
+
+
 ----------------------------------------nekou
 ![MasterHead](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)
 <h1 align="center">Hi 👋, I'm Nekou</h1>
@@ -507,7 +530,7 @@ I have experience from working as an **IT Intern at Mobarakeh Steel Company** wh
   <b>Computer Engineering Student | Machine Learning Enthusiast | Web Developer</b>
 </p>
 
----
+
 
 ## 🖤 About Me  
 - 🎓 Final-year Computer Engineering student  
@@ -516,7 +539,7 @@ I have experience from working as an **IT Intern at Mobarakeh Steel Company** wh
 - 📚 Always learning new technologies and improving my skills  
 - 🌍 Open to collaborations and exciting projects  
 
----
+
 
 ## 🛠 Tech Stack  
 
@@ -534,14 +557,14 @@ I have experience from working as an **IT Intern at Mobarakeh Steel Company** wh
 
 </div>
 
----
+
 
 ## 📌 Featured Projects  
 - 🧠 **Breast Cancer Detection App** — Deep learning model for medical image classification with Grad-CAM explainability  
 - 📊 **Alzheimer's Data Dashboard** — Clean dataset creation & interactive Power BI dashboard  
 - 💡 **PHP Web Projects** — Multiple small-scale but functional applications  
 
----
+
 
 ## 📫 Get in Touch  
 <div align="center">
@@ -552,7 +575,6 @@ I have experience from working as an **IT Intern at Mobarakeh Steel Company** wh
 
 </div>
 
----
 
 <p align="center">💬 Let's build something amazing together!</p>
 

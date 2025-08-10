@@ -8,12 +8,12 @@
 ---
 
 ## About Me  
-👋 Hi, I'm **Alireza Saberian**   
-🎓 I'm a Computer Engineering student at **Hamadan University of Technology**  
-📅 Entry 1400 – Graduation 1404  
-💻 I'm currently improving my skills in **Backend Development** using **Node.js**   
-🌱 Passionate about learning new technologies and improving my programming skills  
-🚀 Excited to start my professional journey in the tech industry
+👋 Hi, I'm **Alireza Saberian**.   
+🎓 I'm a Computer Engineering student at **Hamadan University of Technology**.  
+📅 Entry 1400 – Graduation 1404.  
+💻 I'm currently improving my skills in **Backend Development** using **Node.js**.   
+🌱 Passionate about learning new technologies and improving my programming skills.  
+🚀 Excited to start my professional journey in the tech industry.
 
 ### 📞 Connect with me
 

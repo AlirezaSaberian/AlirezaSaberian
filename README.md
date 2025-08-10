@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=428034&center=true&vCenter=true&width=600&height=50&lines=-Computer+Engineer-;-Always+Learning+New+Things-;" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=428034&center=true&vCenter=true&width=600&height=50&lines=-Welcome+To+My+GitHub-;-Always+Learning+New+Things-;" alt="Typing Animation"/>
 </p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </div>
 
 ---
-
-<h2 align="center">👋 Hey there! Welcome to my GitHub:)</h2>
 
 ## About Me  
 👋 Hi, I'm **Alireza Saberian**   

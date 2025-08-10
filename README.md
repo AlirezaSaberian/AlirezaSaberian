@@ -55,26 +55,16 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaSaberian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=AlirezaSaberian&theme=dark&hide_border=false" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaberian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/>
+</p>
+
+---
+
 ----------------------------------------Mohammad Mohebian
-# 💫 About Me:
-
-<div id="header" align="center">
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
-  </div>
-</div>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h1 align="center">
-  👋 Hi, I'm Mohammad Mohebian
-</h1>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohammad.mhbn)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.mhbn@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mohammad_mhbn)
-
-
 
 # 💻 Tech Stack:
 ## Languages and Scripts i know:
@@ -84,68 +74,6 @@
 
 ## Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-
-# 📊 GitHub Stats:
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MohammadMHB&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMHB&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMHB&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
-
----------------------------------------trloneloa
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</div>
-
-<div id="badges" align="center">
-	<a href="https://www.instagram.com/trloneloa/">
-  	<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-	</a>
-	<a href="https://www.linkedin.com/in/amir-sajjad-hp-4371351b6/">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-	</a>
-</div>
-<h1 align="center">
-  Crisiroid
-</h1>
-
-### :man_technologist: About Me
-<h4>
-	Hey, I'm Amir Sajad, a Flutter developer turned ASP.NET enthusiast.<br />
-	Former backend maestro at Beta Design.<br />
-	With a knack for sleek interfaces and robust backends, I'm all about crafting seamless digital experiences.
-</h4>
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisiroid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Crisiroid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=Crisiroid&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### :hammer_and_wrench: Used Languages
-
-<p align="center"> 
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-	<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-	<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-	<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
 ---------------------------------------------------ashkan
 # 💫 About Me:
@@ -183,7 +111,3 @@
 | ![](https://github-readme-stats.vercel.app/api?username=ashkan4472&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkan4472&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 | :------------: | :------------: |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=ashkan4472&theme=nightowl&hide_border=false)   |   |
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashkan4472&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
